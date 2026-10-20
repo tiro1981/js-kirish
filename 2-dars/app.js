@@ -1,0 +1,17 @@
+const ism = "Hikmatillo";
+const familiya = "Abdurasulov";
+let yosh = 22;
+let pul = "ishsiz";
+let kasib = "Najot Talim";
+let oila = "Oilalimi?";
+console.log("men haqimda");
+alert("kirish");
+let name = prompt("ismingizni kiriting");
+let surename = prompt("familiya");
+let kasibim = prompt("kasibni kiriting");
+let oilam = prompt("Oila qurganmi");
+let money = prompt("puli qancha");
+console.log(name);
+console.log(surename);
+console.log(kasibim);
+console.log(oilam);
